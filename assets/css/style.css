@@ -1466,6 +1466,10 @@ Icon for all respective meta
 
 
 /* === Contact Section === */
+#email {
+    color: black;
+}
+
 .contact-section  {
   
 }
@@ -1496,7 +1500,7 @@ Icon for all respective meta
     overflow: hidden;
     line-height: 30px;
     font-weight: 400;
-    margin-bottom: 45px
+    margin-bottom: 45px;
 }
 
 

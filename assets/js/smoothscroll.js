@@ -205,9 +205,9 @@ function ssc_overflowingAncestor(e) {
     } while (e = e.parentNode)
 }
 
-// function ssc_addEvent(e, t, n) {
-//     window.addEventListener(e, t, n || false)
-// }
+function ssc_addEvent(e, t, n) {
+    window.addEventListener(e, t, n || false)
+}
 
 function ssc_removeEvent(e, t, n) {
     window.removeEventListener(e, t, n || false)
