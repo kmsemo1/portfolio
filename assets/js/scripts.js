@@ -234,7 +234,7 @@ jQuery(function ($) {
     // -------------------------------------------------------------
     // Vidio auto play
     // -------------------------------------------------------------
-    (function () {
+    // (function () {
     
     /* Vimeo API: http://developer.vimeo.com/player/js-api */
     
